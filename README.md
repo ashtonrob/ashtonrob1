@@ -1,4 +1,4 @@
-# ashtonrob1Таня, [28.03.2023 21:50]
+# ashtonrob1
 WITH 
 
 accounts as (
